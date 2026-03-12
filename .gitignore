@@ -1,0 +1,9 @@
+node_modules/
+
+# Local env
+.env
+
+# Neo4j runtime artifacts (do not version)
+neo4j/data/
+neo4j/logs/
+neo4j/plugins/*.jar
